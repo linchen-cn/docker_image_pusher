@@ -1,6 +1,7 @@
 python:3.12.1-slim
 metabase/metabase
 amir20/dozzle
+homeassistant/aarch64-homeassistant
 #支持私库#
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
