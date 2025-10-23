@@ -5,7 +5,7 @@ homeassistant/aarch64-homeassistant
 alpine:latest
 golang:1.23.2-alpine
 rabbitmq:management
-clickhouse-server
+yandex/clickhouse-server
 #支持私库#
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
