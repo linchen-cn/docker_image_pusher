@@ -13,3 +13,4 @@ redis:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 kylemanna/openvpn
+n8nio/n8n
