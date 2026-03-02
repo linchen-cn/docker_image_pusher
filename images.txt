@@ -14,3 +14,4 @@ redis:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 kylemanna/openvpn
 n8nio/n8n
+openclaw/openclaw
