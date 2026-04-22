@@ -1,5 +1,5 @@
 python:3.12.1-slim
-metabase/metabase:v0.60
+metabase/metabase:v0.60.2.2
 amir20/dozzle
 homeassistant/aarch64-homeassistant
 alpine:latest
