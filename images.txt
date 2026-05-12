@@ -16,3 +16,4 @@ kylemanna/openvpn
 n8nio/n8n
 alpine/openclaw
 apache/kafka:4.0.0
+alpine:latest
