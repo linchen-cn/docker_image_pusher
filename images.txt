@@ -3,7 +3,6 @@ metabase/metabase:latest
 amir20/dozzle
 homeassistant/aarch64-homeassistant
 alpine:latest
-golang:1.23.2-alpine
 rabbitmq:management
 yandex/clickhouse-server
 redis:latest
@@ -18,3 +17,4 @@ alpine/openclaw
 apache/kafka:4.0.0
 alpine:latest
 golang:1.24-alpine
+golang:1.25-alpine
