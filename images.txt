@@ -18,3 +18,4 @@ apache/kafka:4.0.0
 alpine:latest
 golang:1.24-alpine
 golang:1.25-alpine
+calciumion/new-api
