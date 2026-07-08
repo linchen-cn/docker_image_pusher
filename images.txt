@@ -20,6 +20,6 @@ alpine:latest
 golang:1.24-alpine
 golang:1.25-alpine
 calciumion/new-api
-oven/bun:1
+oven/bun:1.3.14
 golang:1.26.1-alpine
 debian:bookworm-slim
