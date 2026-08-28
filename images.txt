@@ -1,4 +1,5 @@
 python:3.12.1-slim
+node:22-alpine
 metabase/metabase:latest
 amir20/dozzle
 homeassistant/aarch64-homeassistant
